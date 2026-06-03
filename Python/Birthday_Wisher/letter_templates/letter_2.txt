@@ -1,0 +1,10 @@
+Hello [BIRTHDAY_PERSON_NAME],
+
+Happy Birthday! 🎉
+
+I hope your day is filled with love, laughter, and all the things that make you happiest.
+
+Cheers to another year of amazing adventures!
+
+Best regards,
+[SENDER_NAME]
